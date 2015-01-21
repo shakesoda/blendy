@@ -1,0 +1,5 @@
+{
+	"cmd": "love",
+	"args": [ "." ],
+	"sh": false
+}
